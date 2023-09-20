@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aslskks
-- 👀 I’m interested in programacion en python
+- 👀 esoy interesado en programacion en python
 
 <!---
 aslskks/aslskks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
