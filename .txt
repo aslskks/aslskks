@@ -1,0 +1,4 @@
+si tienes el error DisallowedHost at /
+Invalid HTTP_HOST header:
+entra a settings.py
+y ve a la lista ALLOWED_HOSTS y pon ALLOWED_HOSTS=["tu_ip_aqui"]
